@@ -1,4 +1,4 @@
-Final Project (Groups of 1-2 people allowed. Please see the requirements for each team size in section 4.0) 
+Final Project 
 1.0	Introduction 
 HummingBee Home Garden Sprinkler System is an automated, microprocessor-based watering system for lawns and gardens. The system can be programmed to water the lawns and gardens at specified times and/or based on the daily temperatures. 
 Using the OO Analysis and Design techniques, develop an Object Model of the HummingBee Garden Sprinkler System and implement it in Java. The implementation is a computer-based simulation of the Sprinkler System, where the various sensors, their functionality, the control panel to arm and program the system are simulated using a Graphic User Interface. 
