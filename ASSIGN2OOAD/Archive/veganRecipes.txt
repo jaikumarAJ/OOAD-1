@@ -1,0 +1,20 @@
+Vegan1:Thin crust:10.00:360
+Vegan2:White sauce:15.00:400
+Vegan3:Fried potato:10.00:200
+Vegan4:Salad veg:15.00:190
+Vegan5:Til:15.00:190
+Vegan6:White Rice:8.00:400
+Vegan7:White Rice:10.00:450
+Vegan8:White Rice:12.00:450
+Vegan9:Vegetarian:10.00:200
+Vegan10:Tortillas:6.00:190
+Vegan11:Enchiladas:15.00:300
+Vegan12:Burrito Bowl:12.00:300
+Vegan13:Burger:10.00:400
+Vegan14:Potato:3.00:300
+Vegan15:Granola Parfait:6.00:150
+Vegan16:Belgian Waffles:10.00:200
+Vegan17:Sandwich:7.00:190
+Vegan18:Salad:8.00:190
+Vegan19:Quinoa bowl:14.00:200
+Vegan20:Brown Rice:8.00:300

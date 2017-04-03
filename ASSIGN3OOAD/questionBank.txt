@@ -1,0 +1,36 @@
+SCIENCE:Helps plants to make food with sunlight?:T:Chlorophyll:::::1:chlorophyll.png
+SCIENCE:Who The Origin of Species?:M:Charles Darwin:John J Audubon:Thomas Malthus:Gregor Mendel: Charles Darwin:1:NONE
+SCIENCE:An arrangement of elements is called?:T:Periodic Table:::::2:NONE
+SCIENCE:Smallest parts of elements are:M:Atoms:Cells:Atoms:Molecule:Compounds:1:NONE
+SCIENCE:Which is not an insect?:M:Millipede:Fly:Ant:Millipede:Beetle:1:NONE
+SCIENCE:Which of these is a type of rocks?:M:Metamorphic:Sand:Clay:Metamorphic:Silt:1:NONE
+SCIENCE:What is NASA an acronym for?:T:National Aeronautics and Space Administration:::::1:NONE
+SCIENCE:An atomic particle with negative charge is:T:electrons:::::2:NONE
+SCIENCE:Which is not a carnivore?:M:Bull:Lion:Bull:Wolf:Tiger:1:NONE
+SCIENCE:Earth spins on an .... axis?:T:Imaginary:::::2:NONE
+SCIENCE:An atomic particle with positive charge is:T:Proton:::::2:NONE
+SCIENCE:Which has the most gravity?:M:Black Hole:Red Giant:White Dwarf:Black Hole: Venus:1:blackhole.png
+SCIENCE:What company was co-founded by Steve Jobs?:T:Apple:::::2:iphone.png
+SCIENCE:Which blood cells carry oxygen, red or white?:T:Red:::::2:NONE
+SCIENCE:What does a fire need to keep it going?:T:Oxygen:::::2:fire.png
+ENGLISH:HIGHLIGHT is a synonym of:M:Emphasize:Emphasize:Cross-out:Light up:Hide:1:NONE
+ENGLISH:When you CHARACTERIZE someone, you .... them:M:Describe:Put them down:Describe:Write about:Criticize:1:NONE
+ENGLISH:What does AUTHENTIC mean?: M:Real:Clean:Diamond:Real:Fake:1:NONE
+ENGLISH:Good enough-:M:Adequate:Adequate:Agony:Audible:Brawny:1:NONE
+ENGLISH:Someone who is hooked on something?:M:Addict:Addict:Belligerent:Indifferent:Opposed:2:addicted.png
+ENGLISH:To admit-:M:Acknowledge:Adorn:Abrupt:Acknowledge:Folly:1:NONE
+ENGLISH:To disturb or worry someone-:M:Harass:Balk:Harass:Daze:Cycle:1:NONE
+ENGLISH:Which is a synonym for IMPARTIAL?:M:Neutral:Unfair:Neutral:Prevent:Classic:1:NONE
+ENGLISH:Inevitable:M:Unavoidable:Hurtful:Rapid:To happen:Unavoidable:1:NONE
+GEOGRAPHY:What is the capital of Vermont?:M:Montpelier:Providence:Concord:Montpelier:Albany:2:NONE
+GEOGRAPHY:Jackson is the capital of:T:Mississippi:::::2:NONE
+GEOGRAPHY:What is the capital of California?:M:Sacramento:San Diego:Sacramento:San Francisco:Los Angeles:2:california.png
+GEOGRAPHY:What is the capital of Florida?:M:Tallahassee:Miami:Jacksonville:New Orleans:Tallahassee:1:NONE
+GEOGRAPHY:Land that is surrounded by water on three sides is:M:Peninsula:Peninsula:Plain:Praoroe:Plateau:1:NONE
+GEOGRAPHY:What is the capital of Vermont?:M:Montpelier:Providence:Concord:Montpelier:Albany:1:NONE
+GEOGRAPHY:The imaginary line that splits the world into Hemispheres is:T:Equator:::::1:NONE
+GEOGRAPHY:The longest river in the world is:M:Nile River:Mississippi River:Rio Grande River:Nile River:Missouri River:1:NONE
+GEOGRAPHY:Which book would show where Africa is located?:M:Atlas:Thesaurus:Dictionary:Atlas:Glossary:1:NONE
+GEOGRAPHY:What is the definition of Geography?:TA:The study of the earth and the way people live on it.:::::2:NONE
+GEOGRAPHY:The tallest mountain in the world is:M:Mt. Everest:Mt. Mckinley:Mt. Everest:Mt. Eden:Mt. Rushmore:1:NONE
+GEOGRAPHY:What is the capital of Massachusetts?:M:Boston:Boston:Springfield:New Bedford:Worcester:2:NONE

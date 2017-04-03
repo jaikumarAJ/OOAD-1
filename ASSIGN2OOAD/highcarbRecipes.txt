@@ -1,0 +1,20 @@
+HighCarb1:Thin crust:10.00:360
+HighCarb2:White sauce:15.00:400
+HighCarb3:Brown Rice:8.00:300
+HighCarb4:Fried chicken:10.00:200
+HighCarb5:Salmon:15.00:190
+HighCarb6:Tilapia:15.00:190
+HighCarb7:Fried Rice:8.00:400
+HighCarb8:White Rice:10.00:450
+HighCarb9:Chicken Fried Rice:12.00:450
+HighCarb10:Veggie noodles:10.00:200
+HighCarb11:Tortillas:6.00:190
+HighCarb12:Enchiladas:15.00:300
+HighCarb13:Burrito Bowl:12.00:300
+HighCarb14:Burger:10.00:400
+HighCarb15:Potato:3.00:300
+HighCarb16:Fresh fruits:6.00:150
+HighCarb17:Belgian Waffles:10.00:200
+HighCarb18:Sandwich:7.00:190
+HighCarb19:Salad:8.00:190
+HighCarb20:Quinoa bowl:14.00:200

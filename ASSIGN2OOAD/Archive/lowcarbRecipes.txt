@@ -1,0 +1,20 @@
+LowCarb1:Thin crust:10.00:360
+LowCarb2:White sauce:15.00:400
+LowCarb3:Brown Rice:8.00:300
+LowCarb4:Fried chicken:10.00:200
+LowCarb5:Salmon:15.00:190
+LowCarb6:Tilapia:15.00:190
+LowCarb7:Fried Rice:8.00:400
+LowCarb8:White Rice:10.00:450
+LowCarb9:Chicken Fried Rice:12.00:450
+LowCarb10:Veggie noodles:10.00:200
+LowCarb11:Tortillas:6.00:190
+LowCarb12:Enchiladas:15.00:300
+LowCarb13:Burrito Bowl:12.00:300
+LowCarb14:Burger:10.00:400
+LowCarb15:Potato:3.00:300
+LowCarb16:Fresh fruits:6.00:150
+LowCarb17:Belgian Waffles:10.00:200
+LowCarb18:Sandwich:7.00:190
+LowCarb19:Salad:8.00:190
+LowCarb20:Quinoa bowl:14.00:200
